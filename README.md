@@ -31,7 +31,7 @@
 - Обучаюсь основам DS
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](t.me/Ruslan_Rad)
+- Telegram: @Ruslan_Rad
 
 ---
 
@@ -64,4 +64,4 @@
 - Learning DS course
 
 ### 🙌🏻 Contact me
-- [Telegram](t.me/Ruslan_Rad)
+- Telegram: @Ruslan_Rad

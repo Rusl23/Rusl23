@@ -8,20 +8,20 @@
   - Skillfactory Специализация Аналитик данных
 >   
 * 📊 Начал свой путь в аналитку данных в 2021 году
-* 💻 Сейчас обучаюсь на дата сайнтиста 
+* 💻 Сейчас обучаюсь Analytics-Engineering Data-Engineering.
 * 🚠 Веду активный образ жизни, люблю спорт
-* 🐶 Хозяин прекрасного лабродуделя 
 > 
 ### 📚 Проекты 📚
 
 * Кликни [сюда](https://github.com/Rusl23?tab=repositories) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, SQL, PBI, Excel, GIT
+- Инструменты: SQL, GIT, DBT, Python, ETL, BI
 - Skills: 
     * Ad-hoc анализ
     * Автоматизация отчетности
     * Расчет и внедрение бизнес метрик
+    * Построение dbt моделей
     * Визуализация данных
     * Автоматизация расчетов в Airflow
     * Очистка и подготовка данных
@@ -30,8 +30,8 @@
     * Скрэйппинг данных
     
 ### ⚡️ В настоящее время ⚡️
-- Работаю Аналитиком в GlowByte
-- Обучаюсь основам DS
+- Работаю Аналитиком в Profee
+- Изучаю Дата-Инжинирнг
 
 ### 🙌🏻 Свяжись со мной
 - Telegram: @Ruslan_Rad
@@ -44,19 +44,19 @@
 * 🎓 Education:
   - KFU Geophysicist ***bachelor***
   - KFU Oil and Gas Engineering ***Master's Degree***
+  - MFTI Data science
   - Skillfactory Data analyst
-  - Skillfactory + MFTI Data science
 * 📊 Started my journey into Data analysis in 2021
 * 💻 Right now I'm learning Data science
 * 🚠 I'm active person with a lot of hobbies start from snowboarding ending with yoga
-* 🐶 I'm owner of beautiful labradoodle
 
 ### 💡 Core competencies 💡
-- Tools: Python, SQL, PBI, Excel, GIT
+- Tools: SQL, GIT, DBT, Python, ETL, BI
   - Skills:
     * Ad-hoc analysis
     * Reporting automatisation
     * Calculation and implementation of business metrics
+    * DBT modelinng
     * Data visualisation
     * Calculation in Airflow
     * Forecast of budget for marketing
@@ -67,8 +67,8 @@
 
 
 ### ⚡️ Currently ⚡️
-- Working as Analyst in GlowByte
-- Learning DS course
+- Working as Analyst in Profee
+- Focus on learning Analytics Engineering and Data Engineering
 
 ### 🙌🏻 Contact me
 - Telegram: @Ruslan_Rad
